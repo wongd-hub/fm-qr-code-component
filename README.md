@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Darren Wong](https://github.com/wongd-hub)
+- Frontend Mentor - [@wongd-hub](https://www.frontendmentor.io/profile/wongd-hub)
