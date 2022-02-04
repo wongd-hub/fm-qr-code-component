@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution and Live Site URL: [CodeSandbox.io](https://codesandbox.io/s/fm-qr-code-component-sphgv?file=/README.md)
+- Solution and Live Site URL: [CodeSandbox.io](https://codesandbox.io/s/fm-qr-code-component-sphgv?file=/index.html)
 
 ## My process
 
